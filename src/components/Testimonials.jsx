@@ -19,7 +19,7 @@ const Testimonial = () => {
         />
 
         <TestimonialCard
-          name={"Sundar Pichai"}
+          name={"Priyanka"}
           feedback={"Amazing seems like you should the Google CEO"}
         />
       </section>
